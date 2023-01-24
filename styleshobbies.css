@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5DC; /* Beige color */
+    color: #333333;
+    padding: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+ol {
+    font-size: 1.2em;
+    list-style-type: decimal;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #6B4C13; /* Fall color */
+    text-decoration: underline; /* added underline */
+}

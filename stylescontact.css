@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5DC; /* Beige color */
+    color: #333333;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+ul {
+    font-size: 1.2em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* center the list items */
+}
+
+ul li {
+    margin-bottom: 10px;
+    display: inline-block; /* display phone number and email on the same line */
+}
+
+
+a {
+    color: #6B4C13; /* Fall color */
+    text-decoration: underline; /* added underline */
+}
+
+form {
+    text-align: left;
+    margin: 0 auto;
+    width: 50%;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+input[type="text"], input[type="email"], textarea
+{
+    font-size: 1.2em;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #6B4C13; /* Fall color */
+}
